@@ -20,6 +20,25 @@ local global_map = {
         Motor960v={3}
     },
 
+    battery_number = {
+        lithiumbatterybox_1={1},
+        lithiumbatterybox={2},
+        lithiumbatterybox_3={3},
+        lithiumbatterybox_4={4},
+        lithiumbatterybox_5={5},
+        lithiumbatterybox_6={6},
+        lithiumbatterybox_7={7},
+        lithiumbatterybox_8={8},
+        lithiumbatterybox_9={9},
+        lithiumbatterybox_10={10},
+        lithiumbatterybox_11={11},
+        lithiumbatterybox_12={12},
+        lithiumbatterybox_13={13},
+        lithiumbatterybox_14={14},
+        lithiumbatterybox_15={15},
+        lithiumbatterybox_16={16}
+    }
+
     pc_id = {
         Motor120v={0},
         Motor240v={1},
