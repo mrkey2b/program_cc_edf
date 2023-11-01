@@ -25,8 +25,8 @@ function update_pastebin()
     end
     -- GET PASTEBIN --
     shell.run("pastebin get "..startup_link.." startup")
-    shell.run("pastebin get "..config_link.." config")
-    shell.run("pastebin get "..utils_link.." utils")
+    --shell.run("pastebin get "..config_link.." config")
+    --shell.run("pastebin get "..utils_link.." utils")
     shell.run("pastebin get "..global_db_link.." global_db")
 end
 
@@ -36,5 +36,5 @@ function update_import()
 --    utils = require("utils")
 end
 
--- Function Check Energy
-function check = ()
+update_pastebin()
+update_import()
