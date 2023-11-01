@@ -9,8 +9,8 @@ local global_map = {
     rf_limits = {
         Motor120v={0}, -- 
         Motor240v={0}, -- 
-        Motor480v={100000}, -- 100KF/T {85 KJ} | 1,7 MW | 3541 A
-        Motor960v={200000} -- 200KF/T {170 KJ} | 3,4 MW | 3541 A
+        Motor480v={100000}, -- 100KFE/T {85 KJ} | 1,7 MW | 3541 A
+        Motor960v={200000} -- 200KFE/T {170 KJ} | 3,4 MW | 3541 A
     },
 
     energy_detector_number = {
