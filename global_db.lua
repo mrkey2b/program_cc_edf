@@ -22,7 +22,7 @@ local global_map = {
 
     battery_number = {
         lithiumbatterybox_1={1},
-        lithiumbatterybox={2},
+        lithiumbatterybox_2={2},
         lithiumbatterybox_3={3},
         lithiumbatterybox_4={4},
         lithiumbatterybox_5={5},
